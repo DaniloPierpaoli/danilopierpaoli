@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I’m Danilo Pierpaoli
 
-<!--
-**DaniloPierpaoli/danilopierpaoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data analyst with a background in physics, finance, and rehabilitation science — currently transitioning into tech with strong foundations in Python, SQL, and data visualization.
 
-Here are some ideas to get you started:
+My work combines analytical thinking with real-world impact — from analyzing guitar signals using FFT to building interactive apps for IP subnetting and designing rehabilitation data solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+🔧 Tech Skills
+
+Python · Pandas · NumPy · SQL · Jupyter · Streamlit · Git · Power BI (learning)
+
+⸻
+
+📂 Highlighted Projects
+	•	🎸 FFT Guitar Analyzer
+Frequency detection from raw audio using Fast Fourier Transforms
+	•	🌐 IP Subnetting Calculator
+Tkinter-based interactive networking tool
+	•	📊 IBM Capstone Project
+End-to-end data analysis with wrangling, visual insights, and dashboards
+
+⸻
+
+📫 Contact
+	•	📧 Email: danilo.pierpaoli@outlook.com
+	•	💼 LinkedIn: linkedin.com/in/danilopierpaoli
+	•	🌐 Portfolio Website: danilopierpaoli.github.io
