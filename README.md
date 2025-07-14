@@ -1,19 +1,19 @@
-# Hi, I'm Danilo Pierpaoli 👋
+# Hi, I'm Danilo Pierpaoli 🤌🏻
 
 I’m a Physics undergraduate at the Open University (UK) and an aspiring data analyst with a strong foundation in Python, SQL, and signal processing (FFT).  
 After moving from a finance degree and personal training career, I transitioned into tech and data through hands-on projects in healthcare and quantitative analysis.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-- 🎸 [FFT Guitar Signal Analyzer](https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)  
+-  [FFT Guitar Signal Analyzer](https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)  
   Analyzes audio signals using custom FFT pipelines to detect notes and chords from guitar recordings.
 
-- 📡 [Stochastic Resonance Explorer](https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)  
+- [Stochastic Resonance Explorer](https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)  
   Models bistable systems with noise and identifies optimal noise levels for resonance enhancement.
 
-- 🌐 [IP Subnetting Calculator](https://github.com/DaniloPierpaoli/IP-subnetting-calculator-APP)  
+-  [IP Subnetting Calculator](https://github.com/DaniloPierpaoli/IP-subnetting-calculator-APP)  
   A Tkinter-based GUI to calculate IP subnets, broadcast addresses, and usable IP ranges.
 
 ---
