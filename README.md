@@ -8,11 +8,11 @@ Projects
 - Developer Tech Stack Explorer & Dashboard
 A full-scale data analysis project using the Stack Overflow Developer Survey:
 
-- Data pipeline & cleaning with Python and Pandas
+-- Data pipeline & cleaning with Python and Pandas
 
-- Interactive dashboard built in Streamlit/Plotly
+--Interactive dashboard built in Streamlit/Plotly
 
-Features grouped bar and pie charts for languages, databases, platforms, and frameworks filtered by country and age ranges
+--Features grouped bar and pie charts for languages, databases, platforms, and frameworks filtered by country and age ranges
 
 🎸 FFT Sound Signal Analyzer
 A structured, three-part Fast Fourier Transform analysis toolkit:
