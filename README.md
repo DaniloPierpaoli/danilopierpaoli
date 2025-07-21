@@ -50,7 +50,7 @@ Projects
 
 - 🌐 [Portfolio Website](https://danilopierpaoli.github.io/danilo-pierpaoli.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/danilo-pierpaoli)
-- 📫 Email: [danilo.pierpali@outlook.com](mailto:danilo.pierpali@outlook.com)
+- 📫 [Email](mailto:danilo.pierpali@outlook.com)
 
 ---
 
