@@ -5,25 +5,25 @@ After moving from a finance degree and personal training career, I transitioned 
 
 -----------------------------------------------------------
 Projects
-- Developer Tech Stack Explorer & Dashboard
-A full-scale data analysis project using the Stack Overflow Developer Survey:
+- Developer Tech Stack Explorer & Dashboard (https://github.com/DaniloPierpaoli/Developer-job-market-analysis)
+  A full-scale data analysis project using the Stack Overflow Developer Survey:
 
   - Data pipeline & cleaning with Python and Pandas
 
---Interactive dashboard built in Streamlit/Plotly
+  -Interactive dashboard built in Streamlit/Plotly. Link: (https://developer-job-market-analysis-gsobxkwepp7dsfdus2dznn.streamlit.app/)
 
---Features grouped bar and pie charts for languages, databases, platforms, and frameworks filtered by country and age ranges
+  -Features grouped bar and pie charts for languages, databases, platforms, and frameworks filtered by country and age ranges
 
-🎸 FFT Sound Signal Analyzer
+- FFT Sound Signal Analyzer (https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)  
 A structured, three-part Fast Fourier Transform analysis toolkit:
 
-Guitar String Analyzer – Detects notes and chords from guitar recordings
+  -Guitar String Analyzer – Detects notes and chords from guitar recordings Link: (https://fft-analyzer-app-gqnbgv3c5dns4qswe8phvc.streamlit.app/)
 
-Mathematical Signal FFT – Transforms synthetic functions (e.g., cosh) into the frequency domain
+  -M<athematical Signal FFT – Transforms synthetic functions (e.g., cosh) into the frequency domain
 
-Stochastic Resonance Explorer – Simulates bistable systems with noise to find optimal resonance peaks
+  -Stochastic Resonance Explorer – Simulates bistable systems with noise to find optimal resonance peaks
 
-🌐 IP Subnetting Calculator
+🌐 IP Subnetting Calculator Link: [IP Subnetting Calculator](https://github.com/DaniloPierpaoli/IP-subnetting-calculator-APP)  
 A desktop GUI built with Tkinter that calculates subnets, broadcast addresses, and usable IP ranges from IP + subnet input—ideal for teaching and quick usage.
 
 
@@ -37,7 +37,7 @@ Fast Fourier Transform ignal Analysis
 A three-part project analyzing signals using the Fast Fourier Transform:
 Link: (https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)
 
-Guitar String Analyzer: Detects frequencies, notes, and chords from recorded guitar sounds using a custom FFT-based pipeline. Check my app at the following link:[FFT Sound Signal Analyzer](https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)  
+Guitar String Analyzer: Detects frequencies, notes, and chords from recorded guitar sounds using a custom FFT-based pipeline. Check my app at the following link:[FFT Sound Signal Analyzer]
 
 FFT of Arbitrary Functions: Visualizes the frequency domain of mathematical signals to demonstrate the FFT on synthetic inputs.
 
@@ -46,7 +46,7 @@ Stochastic Resonance Explorer: Simulates noise-enhanced signal detection in bist
  IP Subnetting Calculator
 A standalone Tkinter GUI application that computes subnet masks, broadcast addresses, and usable IP ranges — designed for simplicity and educational clarity.
 
-Link: [IP Subnetting Calculator](https://github.com/DaniloPierpaoli/IP-subnetting-calculator-APP)  
+
 
 
 -----------------------------------------------------------
