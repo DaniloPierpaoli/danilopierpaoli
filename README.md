@@ -3,7 +3,7 @@
 I’m a Physics undergraduate at the Open University (UK) and an aspiring data analyst with a strong foundation in Python, SQL, and signal processing (FFT).  
 After moving from a finance degree and personal training career, I transitioned into tech and data through hands-on projects in healthcare and quantitative analysis.
 
----
+-----------------------------------------------------------
 
 ## Projects
 
@@ -16,7 +16,7 @@ After moving from a finance degree and personal training career, I transitioned 
 -  [IP Subnetting Calculator](https://github.com/DaniloPierpaoli/IP-subnetting-calculator-APP)  
   A Tkinter-based GUI to calculate IP subnets, broadcast addresses, and usable IP ranges.
 
----
+-----------------------------------------------------------
 
 ## 🛠️ Skills
 
@@ -25,7 +25,7 @@ After moving from a finance degree and personal training career, I transitioned 
 **Tools:** Git/GitHub, Jupyter, VS Code, IBM Cognos, Power BI (learning)  
 **Domains:** Data wrangling, analysis, signal processing, dashboards, virtual rehab
 
----
+-----------------------------------------------------------
 
 ## 🔗 Links
 
