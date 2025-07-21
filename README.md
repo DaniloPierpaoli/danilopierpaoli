@@ -17,7 +17,7 @@ Projects
 
 
 - FFT Sound Signal Analyzer.  Link repo:[FFT-analysis](https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)
-- 
+ 
   A structured, three-part Fast Fourier Transform analysis toolkit:
 
   -Guitar String Analyzer – Detects notes and chords from guitar recordings Link: [Sound analyzer app](https://fft-analyzer-app-gqnbgv3c5dns4qswe8phvc.streamlit.app/)
@@ -27,7 +27,7 @@ Projects
   -Stochastic Resonance Explorer – Simulates bistable systems with noise to find optimal resonance peaks
 
 - IP Subnetting Calculator.  Link repo: [IP Subnetting Calculator](https://github.com/DaniloPierpaoli/IP-subnetting-calculator-APP)
-- 
+ 
   A desktop GUI built with Tkinter that calculates subnets, broadcast addresses, and usable IP ranges from IP + subnet input—ideal for teaching and quick usage.
   Check out demo at link: [IP-Subnetting=Demo](https://www.linkedin.com/posts/danilo-pierpaoli_pythonprogramming-python-developer-activity-7093614365836238848-ZMFu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB-tp_cB1LdZq7bCYNAWiskqbLF9nWVt37k)
  
