@@ -8,7 +8,7 @@ Projects
 - Developer Tech Stack Explorer & Dashboard
 A full-scale data analysis project using the Stack Overflow Developer Survey:
 
--- Data pipeline & cleaning with Python and Pandas
+  - Data pipeline & cleaning with Python and Pandas
 
 --Interactive dashboard built in Streamlit/Plotly
 
