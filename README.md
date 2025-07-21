@@ -39,9 +39,8 @@ Projects
 
 ## 🛠️ Skills
 
-**Languages:** Python, SQL, HTML/CSS  
-**Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Streamlit  
-**Tools:** Git/GitHub, Jupyter, VS Code, IBM Cognos, Power BI (learning)  
+**Languages:** Python, SQL, HTML/CSS, Java  
+**Tools:** Git/GitHub, Jupyter, VS Code, IBM Cognos Analytics, pgAdmin, Power BI (learning)  
 **Domains:** Data wrangling, analysis, signal processing, dashboards, virtual rehab
 
 -----------------------------------------------------------
