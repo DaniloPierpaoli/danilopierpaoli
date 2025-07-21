@@ -5,7 +5,7 @@ After moving from a finance degree and personal training career, I transitioned 
 
 -----------------------------------------------------------
 Projects
-- Developer Tech Stack Explorer & Dashboard (https://github.com/DaniloPierpaoli/Developer-job-market-analysis)
+- Developer Tech Stack Explorer & Dashboard 
   A full-scale data analysis project using the Stack Overflow Developer Survey:
 
   - Data pipeline & cleaning with Python and Pandas
@@ -13,6 +13,7 @@ Projects
   -Interactive dashboard built in Streamlit/Plotly. Link: (https://developer-job-market-analysis-gsobxkwepp7dsfdus2dznn.streamlit.app/)
 
   -Features grouped bar and pie charts for languages, databases, platforms, and frameworks filtered by country and age ranges
+Link repo:[Developer dataset analysis](https://github.com/DaniloPierpaoli/Developer-job-market-analysis)
 
 - FFT Sound Signal Analyzer (https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)  
   A structured, three-part Fast Fourier Transform analysis toolkit:
@@ -23,8 +24,9 @@ Projects
 
   -Stochastic Resonance Explorer – Simulates bistable systems with noise to find optimal resonance peaks
 
-- IP Subnetting Calculator Link: [IP Subnetting Calculator](https://github.com/DaniloPierpaoli/IP-subnetting-calculator-APP)  
+- IP Subnetting Calculator 
   A desktop GUI built with Tkinter that calculates subnets, broadcast addresses, and usable IP ranges from IP + subnet input—ideal for teaching and quick usage.
+  Link repo: [IP Subnetting Calculator](https://github.com/DaniloPierpaoli/IP-subnetting-calculator-APP)  
 
 
 
