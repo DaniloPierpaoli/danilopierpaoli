@@ -7,7 +7,7 @@ After moving from a finance degree and personal training career, I transitioned 
 
 ## Projects
 
--  [FFT Guitar Signal Analyzer](https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)  
+-  [FFT Sound Signal Analyzer](https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)  
   Analyzes audio signals using custom FFT pipelines to detect notes and chords from guitar recordings.
 
 - [Stochastic Resonance Explorer](https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)  
