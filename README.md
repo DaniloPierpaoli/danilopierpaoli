@@ -4,17 +4,25 @@ I’m a Physics undergraduate at the Open University (UK) and an aspiring data a
 After moving from a finance degree and personal training career, I transitioned into tech and data through hands-on projects in healthcare and quantitative analysis.
 
 -----------------------------------------------------------
+Projects
+ Developer Tech Stack Explorer
+An interactive data dashboard built with Python and Plotly/Streamlit using the latest Stack Overflow Developer Survey. Users can filter by country and age group to explore trends in programming languages, databases, web frameworks, and cloud platforms.
 
-## Projects
+Fast Fourier Transform ignal Analysis
+A three-part project analyzing signals using the Fast Fourier Transform:
+Link: (https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)
 
--  [FFT Sound Signal Analyzer](https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)  
-  Analyzes audio signals using custom FFT pipelines to detect notes and chords from guitar recordings.
+Guitar String Analyzer: Detects frequencies, notes, and chords from recorded guitar sounds using a custom FFT-based pipeline. Check my app at the following link:[FFT Sound Signal Analyzer](https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)  
 
-- [Stochastic Resonance Explorer](https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)  
-  Models bistable systems with noise and identifies optimal noise levels for resonance enhancement.
+FFT of Arbitrary Functions: Visualizes the frequency domain of mathematical signals to demonstrate the FFT on synthetic inputs.
 
--  [IP Subnetting Calculator](https://github.com/DaniloPierpaoli/IP-subnetting-calculator-APP)  
-  A Tkinter-based GUI to calculate IP subnets, broadcast addresses, and usable IP ranges.
+Stochastic Resonance Explorer: Simulates noise-enhanced signal detection in bistable systems, identifying the optimal noise level for peak resonance.
+
+ IP Subnetting Calculator
+A standalone Tkinter GUI application that computes subnet masks, broadcast addresses, and usable IP ranges — designed for simplicity and educational clarity.
+
+Link: [IP Subnetting Calculator](https://github.com/DaniloPierpaoli/IP-subnetting-calculator-APP)  
+
 
 -----------------------------------------------------------
 
