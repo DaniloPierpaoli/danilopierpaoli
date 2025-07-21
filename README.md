@@ -54,4 +54,4 @@ Projects
 
 ---
 
-_Thanks for visiting! Feel free to explore my repos and connect._
+Thanks for visiting! Feel free to explore my repos and connect 
