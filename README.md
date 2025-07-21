@@ -5,7 +5,7 @@ After moving from a finance degree and personal training career, I transitioned 
 
 -----------------------------------------------------------
 Projects
-📊 Developer Tech Stack Explorer & Dashboard
+- Developer Tech Stack Explorer & Dashboard
 A full-scale data analysis project using the Stack Overflow Developer Survey:
 
 - Data pipeline & cleaning with Python and Pandas
