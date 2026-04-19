@@ -16,11 +16,11 @@ Projects
   - Features grouped bar and pie charts for languages, databases, platforms, and frameworks filtered by country and age ranges
 
 
-- FFT Sound Signal Analyzer.  Link repo:[FFT-analysis](https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)
+- Signal analysis with Fast Fourier Transforms (FFT).  Link repo:[FFT-analysis](https://github.com/DaniloPierpaoli/FFT-Signal-Analysis)
  
   A structured, three-part Fast Fourier Transform analysis toolkit:
 
-  -Guitar String Analyzer – Detects notes and chords from guitar recordings Link: [Sound analyzer app](https://fft-analyzer-app-gqnbgv3c5dns4qswe8phvc.streamlit.app/)
+  -Sound Analyzer – Detects notes and frequencies from wav sounds Link: [Sound analyzer app](https://fft-analyzer-app-gqnbgv3c5dns4qswe8phvc.streamlit.app/)
 
   -M<athematical Signal FFT – Transforms synthetic functions (e.g., cosh) into the frequency domain
 
